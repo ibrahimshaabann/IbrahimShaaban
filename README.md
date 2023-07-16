@@ -1,1 +1,4 @@
-# IbrahimShaaban
+- I am Ibrahim Shaaban
+- I am currently learning backend
+- I've worked as an android developer for almost a year
+- My Instagram account @ibrrahimshaaban
